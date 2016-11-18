@@ -1,6 +1,6 @@
 {
   "name": "apigeek-dialect-blueprint",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "description": "BDD Dialect for building software systems",
   "main": "lib/index.js",
   "scripts": {
