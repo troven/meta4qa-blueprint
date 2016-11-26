@@ -1,5 +1,5 @@
 {
-  "name": "apigeek-dialect-blueprint",
+  "name": "meta4qa-blueprint",
   "version": "0.2.10",
   "description": "BDD Dialect for building software systems",
   "main": "lib/index.js",
@@ -7,14 +7,14 @@
     "test": "exit 0"
   },
   "bugs": {
-    "url": "https://github.com/apigeek/project/issues",
-    "email": "dialect@apigeek.me"
+    "url": "https://github.com/troven/project/issues",
+    "email": "cto@troven.com.au"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apigeek/apigee-dialect-blueprint.git"
+    "url": "https://github.com/troven/meta4qa-blueprint.git"
   },
-  "author": "dialect@apigeek.me",
+  "author": "cto@troven.com.au",
   "license": "Apache-2.0",
   "dependencies": {
     "JSONPath": "^0.11.2",
@@ -36,5 +36,5 @@
     "yadda": "^0.17.9",
     "yaml": "^0.3.0"
   },
-  "homepage": "https://github.com/apigeek/apigee-dialect-blueprint"
+  "homepage": "https://github.com/troven/meta4qa-blueprint"
 }
