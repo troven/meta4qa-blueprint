@@ -1,6 +1,6 @@
 {
   "name": "meta4qa-blueprint",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "description": "BDD Dialect for building software systems",
   "main": "lib/index.js",
   "scripts": {
