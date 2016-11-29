@@ -1,6 +1,6 @@
 {
   "name": "meta4qa-blueprint",
-	"version": "1.9.0",
+  "version": "1.9.1",
   "description": "meta4qa dialect for scaffolding MVP software",
   "main": "lib/index.js",
   "scripts": {
